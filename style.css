@@ -1,5 +1,42 @@
+.lista {
+  
+    font-size: 30;
+    color: red;
+}
+
+.imagens {
+    text-align: center;
+    background: black;
+}
+
+#destaque {
+    border: 5px;
+    border-style: dashed;
+    border-color: blue;
+    border-top-left-radius: 500px;
+    border-top-right-radius: 500px;
+    border-bottom-left-radius: 500px;
+    border-bottom-right-radius: 500px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 500px;
+    margin-right: 500px;
+    background: yellow;
+}
+
 #imagem {
     text-align: center;
+    border: 5px;
+    border-style: solid;
+    border-color: green;
+    border-top-left-radius: 500px;
+    border-top-right-radius: 500px;
+    border-bottom-left-radius: 500px;
+    border-bottom-right-radius: 500px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
 }
 
 #link {
