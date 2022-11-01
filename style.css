@@ -12,6 +12,12 @@
     text-align: center;
 }
 
+#menu {
+    text-align: center;
+    font-size: 30;
+    
+}
+
 .rodape {
     border-top-style: solid;
     background: greenyellow;
